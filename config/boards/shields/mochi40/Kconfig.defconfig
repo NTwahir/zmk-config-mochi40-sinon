@@ -1,0 +1,6 @@
+if SHIELD_MOCHI40
+
+config ZMK_KEYBOARDS_NAME
+    default "mochi40"
+
+endif
